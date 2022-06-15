@@ -1,0 +1,5 @@
+data/raw/image/*
+data/raw/shape/*
+
+!data/raw/image/*.zip
+!data/raw/shape/*.zip
